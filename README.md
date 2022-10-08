@@ -1,2 +1,3 @@
 # ECEA_HDLTP.
-1 month hdl traning
+## WEEK 1
+### Ran test files (full adder)
